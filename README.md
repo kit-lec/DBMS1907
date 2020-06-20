@@ -1,7 +1,7 @@
 # DBMS1907
 DBMS  초급자를 위한 데이터베이스 입문 (40hr)  2019.07.09 ~ 08.05
 
-따즈이 실강
+따즈아 실강 영상
   https://ddazua.com/course/goodjob_detail.asp?cate=67&kjseq=209&lec=1527
   
 1. DBMS개요 환경세팅
